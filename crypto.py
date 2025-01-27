@@ -164,5 +164,5 @@ def check_balances(input_file, output_file, eth_api_key):
 if __name__ == "__main__":
     input_file = "seeds.txt"
     output_file = "results.txt"
-    eth_api_key = "Q1RSCRCHHKC47KHU1MJ4HPIICGJUIW4BTM"  # Replace with your Etherscan API key
+    eth_api_key = "Q1RSCRCHHKC47KHU1MJ4HPIIC7YHYUTRFEEE8"  # Replace with your Etherscan API key
     check_balances(input_file, output_file, eth_api_key)
