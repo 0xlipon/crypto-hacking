@@ -2,4 +2,4 @@
 
 ``` Tool: https://0xlipon.github.io/crypto-hacking/seeds.html```
 
-Replace with your Etherscan API key - # ```$ python3 crypto.py```
+Replace with your Etherscan API key - ```$ python3 crypto.py```
