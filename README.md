@@ -1,4 +1,13 @@
-# 12 Words Seed Phrase Generator With Balance 💰
+# 12 Words Seed Phrase Generator With Balance Check 💰
 
-![BIP39 Seed Phrase Mnemonics Generator](https://0xlipon.github.io/crypto-hacking/seeds.html)
+> BIP-39 mnemonic generation with BTC and ETH balance checking.
+
+**Live Demo:** [BIP-39 Seed Phrase Generator](https://0xlipon.github.io/crypto-hacking/seeds.html)
+
+## Preview
+
+![Seed Phrase Generator](seeds.png)
+
+> ⚠️ **Security:** Never use real wallet seed phrases for testing. Use test wallets and authorized environments only.
+
 
